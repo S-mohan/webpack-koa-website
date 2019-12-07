@@ -1,0 +1,5 @@
+{
+  "watch": ["src", "server", "webpack.config.js", "static"],
+  "exec": "npm run dev",
+  "ext": "*"
+}
